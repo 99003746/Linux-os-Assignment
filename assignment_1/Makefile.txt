@@ -1,0 +1,9 @@
+Target:
+	gcc assignment_1_1.c -o prob_1
+	gcc assignment_1_2.c -o prob_2
+	gcc assignment_1_3.c -o prob_3
+	gcc assignment_1_4.c -o prob_4
+	gcc assignment_1_5.c -o prob_5
+	gcc assignment_1_7.c -o prob_6
+	gcc assignment_1_8.c -o prob_7
+	
