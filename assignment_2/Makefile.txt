@@ -5,3 +5,4 @@ target:
 	gcc assignment_2_4.(server).c -o prob_3b -lrt
 	gcc assignment_2_5.c(receiver) -o prob_4a -lrt
 	gcc assignment_2_5.c(sender) -o prob_4b -lrt
+	gcc assignment_2_2.c_4 -o prob_3 -lpthread
